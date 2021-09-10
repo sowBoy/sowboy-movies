@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+  web_app:
+    container_name: web_app
+    build: .
+    volumes:
+      - .:/var/www/html
+      - ./apache-folder/sowboy_movies.conf:/etc/apache2/sites-available/sowboy_movies.conf:ro
+      - ./apache-folder/sowboy_movies.conf:/etc/apache2/sites-enabled/sowboy_movies.conf:ro
+      - ./apache-folder/logs:/var/log/apache2
+    ports:
+      - "80:80"
+  

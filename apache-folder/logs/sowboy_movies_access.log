@@ -1,0 +1,8 @@
+172.19.0.1 - - [10/Sep/2021:12:20:07 +0000] "GET / HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:20:08 +0000] "GET /favicon.ico HTTP/1.1" 404 497 "http://sowboy_movies.local/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:27:47 +0000] "GET / HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:27:48 +0000] "GET / HTTP/1.1" 404 497 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:30:24 +0000] "GET / HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:30:25 +0000] "GET / HTTP/1.1" 404 497 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:30:44 +0000] "GET / HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+172.19.0.1 - - [10/Sep/2021:12:45:39 +0000] "GET / HTTP/1.1" 404 32372 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
